@@ -1,0 +1,1 @@
+This project Is a program that reads from a file and the and shows how ofter and item is purchased. It lets you choose which item you want to look at. It also prints a histogram that shows the number of items purchased. I think i did this program well not much to be changed. And I can use code from this program for and program that reads files.
